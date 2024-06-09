@@ -327,7 +327,7 @@
             "updated_at": "2023-07-30 17:49:18",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
-        "category_id": 5610,
+        "category_id": 5608,
         "config_openvpn": null,
         "config_payload": {
             "payload": "HTTP/ [crlf][crlf][crlf]",
@@ -343,7 +343,7 @@
         "icon": "https://i.ibb.co/Q9FpVwk/timlogo-fw.png",
         "id": 5610,
         "mode": "SSH_PROXY",
-        "name": "TIM 1 ➜ CONFIG 1 ➜ EXP",
+        "name": "TIM 2 ➜ CONFIG 1 ➜ EXP",
         "proxy": {
             "host": "140.238.183.99",
             "port": "80"
