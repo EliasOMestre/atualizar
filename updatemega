@@ -327,7 +327,7 @@
             "updated_at": "2023-07-30 17:49:18",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
-        "category_id": 5608,
+        "category_id": 5610,
         "config_openvpn": null,
         "config_payload": {
             "payload": "HTTP/ [crlf][crlf][crlf]",
