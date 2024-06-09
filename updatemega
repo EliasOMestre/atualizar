@@ -335,7 +335,7 @@
         "category_id": 5608,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "HTTP/ [crlf][crlf][crlf]",
+            "payload": null,
             "sni": null
         },
         "config_v2ray": "eyJhZGQiOiJldmVudHMuZm9yeW91LmVyaWNzc29uLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYnIxLmdhbWVzdHlsaXNoLnh5eiIsImlkIjoiODY5MzEwY2QtOGFlZC00MmUyLWE5ZjMtOWE2NmEwM2IxMmM0IiwibmV0Ijoid3MiLCJwYXRoIjoiL0JqRDZuQ2NLLyIsInBvcnQiOiI0NDMiLCJwcyI6Im1ldXByaXZhZG8iLCJzY3kiOiJhdXRvIiwic25pIjoiYXBwLmM2YmFuay5hcHAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
