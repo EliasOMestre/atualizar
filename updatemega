@@ -341,7 +341,7 @@
             "dns2": "8.8.4.4"
         },
         "icon": "https://i.ibb.co/Q9FpVwk/timlogo-fw.png",
-        "id": 69757,
+        "id": 5609,
         "mode": "SSH_PROXY",
         "name": "TIM 1 ➜ CONFIG 1 ➜ EXP",
         "proxy": {
