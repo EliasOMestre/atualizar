@@ -49,6 +49,8 @@
         "url_check_user": "",
         "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
     },
+    
+    
     {
         "auth": {
             "password": null,
@@ -59,7 +61,7 @@
             "color": "#80BB1CD4",
             "created_at": "2023-07-24 16:38:13",
             "id": 5467,
-            "name": "CATEGORIA 1 EXEMPLO MOD",
+            "name": "OPERADORA VIVO",
             "sorter": 3,
             "status": "ACTIVE",
             "updated_at": "2023-07-24 16:38:13",
@@ -100,6 +102,8 @@
         "url_check_user": "",
         "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
     },
+    
+    
 {
         "auth": {
             "password": null,
@@ -151,6 +155,8 @@
         "url_check_user": "",
         "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
     },
+    
+    
 {
         "auth": {
             "password": null,
@@ -202,6 +208,8 @@
         "url_check_user": "",
         "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
     },
+    
+    
     {
         "auth": {
             "password": null,
@@ -253,6 +261,8 @@
         "url_check_user": "",
         "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
     },
+    
+    
     {
         "auth": {
             "password": null,
@@ -294,7 +304,7 @@
             "host": "140.238.183.99",
             "port": 80
         },
-        "sorter": 1,
+        "sorter": 5,
         "status": "ACTIVE",
         "tls_version": "TLSv1.2",
         "udp_ports": [
@@ -306,11 +316,21 @@
     },
   
 
-{
+    {
         "auth": {
             "password": null,
             "username": null,
             "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#800022FF",
+            "created_at": "2023-07-30 17:49:04",
+            "id": 5608,
+            "name": "OPERADORA TIM",
+            "sorter": 5,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-30 17:49:18",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 5608,
         "config_openvpn": null,
@@ -320,15 +340,15 @@
         },
         "config_v2ray": null,
         "created_at": "2023-07-30 17:51:58",
-        "description": "Tim regiões",
+        "description": "Tim sem promoção",
         "dns_server": {
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
         "icon": "https://i.ibb.co/Q9FpVwk/timlogo-fw.png",
-        "id": 69758,
+        "id": 69768,
         "mode": "SSH_PROXY",
-        "name": "TIM 2 ➜ CONFIG 2 ➜ EXP",
+        "name": "TIM 1 ➜ CONFIG 1 ➜ EXP",
         "proxy": {
             "host": "140.238.183.99",
             "port": "80"
