@@ -347,7 +347,7 @@
         },
         "icon": "https://i.ibb.co/Q9FpVwk/timlogo-fw.png",
         "id": 69768,
-        "mode": "V2RAY",
+        "mode": "vmess",
         "name": "TIM 3 ➜ CONFIG 2 ➜ EXP",
         "proxy": {
             "host": null,
