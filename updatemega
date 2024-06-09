@@ -320,7 +320,7 @@
         "category": {
             "color": "#800022FF",
             "created_at": "2023-07-30 17:49:04",
-            "id": 5609,
+            "id": 5610,
             "name": "OPERADORA TIM",
             "sorter": 5,
             "status": "ACTIVE",
@@ -341,7 +341,7 @@
             "dns2": "8.8.4.4"
         },
         "icon": "https://i.ibb.co/Q9FpVwk/timlogo-fw.png",
-        "id": 5609,
+        "id": 5610,
         "mode": "SSH_PROXY",
         "name": "TIM 1 ➜ CONFIG 1 ➜ EXP",
         "proxy": {
