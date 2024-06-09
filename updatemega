@@ -338,10 +338,7 @@
         },
         "config_v2ray": "eyJhZGQiOiJldmVudHMuZm9yeW91LmVyaWNzc29uLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYnIxLmdhbWVzdHlsaXNoLnh5ei5nbG9iYWwucHJvZC5mYXN0bHkubmV0IiwiaWQiOiI4NjkzMTBjZC04YWVkLTQyZTItYTlmMy05YTY2YTAzYjEyYzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQmpENm5DY0svIiwicG9ydCI6IjQ0MyIsInBzIjoiU2VuaG9yRHJ1bW9uZCIsInNjeSI6ImF1dG8iLCJzbmkiOiJhcHAuYzZiYW5rLmFwcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9",
         "created_at": "2023-07-30 17:51:58",
-        "description": "Tim regiões",
-        "dns_server": {
-            "dns1": "8.8.8.8",
-            "dns2": "8.8.4.4"
+        "description": ""
         },
         "icon": "https://i.ibb.co/Q9FpVwk/timlogo-fw.png",
         "id": 69768,
@@ -357,33 +354,9 @@
         },
         "sorter": 5,
         "status": "ACTIVE",
-        "tls_version": "TLSv1.2",
-        "udp_ports": [],
         "updated_at": "2023-08-28 16:21:14",
         "url_check_user": "",
         "user_id": ""
     }
-
-
-
-{
-    "name": "Tim v2ray",
-    "description": "",
-    "mode": "V2RAY",
-    "sorter": 7,
-    "status": "ACTIVE",
-    "auth": {
-        "v2ray_uuid": ""
-    },
-    "category": {
-        "name": "Operadora vivo",
-        "color": "#682BFFD0",
-        "sorter": 7
-    },
-    "config_v2ray": "eyJhZGQiOiJldmVudHMuZm9yeW91LmVyaWNzc29uLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYnIxLmdhbWVzdHlsaXNoLnh5ei5nbG9iYWwucHJvZC5mYXN0bHkubmV0IiwiaWQiOiI4NjkzMTBjZC04YWVkLTQyZTItYTlmMy05YTY2YTAzYjEyYzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQmpENm5DY0svIiwicG9ydCI6IjQ0MyIsInBzIjoiU2VuaG9yRHJ1bW9uZCIsInNjeSI6ImF1dG8iLCJzbmkiOiJhcHAuYzZiYW5rLmFwcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-    "icon": "",
-    "url_check_user": ""
-}
-
 
 ]
