@@ -1,197 +1,24 @@
-{
-    "status":200,
-    "data":[
-        {
-            "id":3807,
-            "label":"Nome do app",
-            "name":"APP_NAME",
-            "value": null,
-            "type":"STRING",
-            "status":"INACTIVE",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":3808,
-            "label":"Logo do app",
-            "name":"APP_LOGO",
-            "value":"https://telegra.ph/file/5dd40d8ef0072e24a49ac.png",
-            "type":"IMAGE",
-            "status":"ACTIVE",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":3809,
-            "label":"Imagem de fundo",
-            "name":"APP_BACKGROUND_IMAGE",
-            "value":"https://telegra.ph/file/9410ec732cc906fd81022.jpg",
-            "type":"IMAGE",
-            "status":"ACTIVE",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":3810,
-            "label":"Tipo do fundo do app",
-            "name":"APP_BACKGROUND_TYPE",
-            "value":{
-                "options":[
-                    {
-                        "label":"Imagem",
-                        "value":"IMAGE"
-                    },
-                    {
-                        "label":"Cor",
-                        "value":"COLOR"
-                    }
-                ],
-                "selected":"IMAGE"
-            },
-            "type":"SELECT",
-            "status":"ACTIVE",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":3811,
-            "label":"Cor de fundo",
-            "name":"APP_BACKGROUND_COLOR",
-            "value":"#000000e6",
-            "type":"COLOR",
-            "status":"ACTIVE",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":3812,
-            "label":"Cor do card inicial",
-            "name":"APP_CARD_COLOR",
-            "value":"#313131e6",
-            "type":"COLOR",
-            "status":"ACTIVE",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":3813,
-            "label":"Cor do card de configurações",
-            "name":"APP_CARD_CONFIG_COLOR",
-            "value":"#0000005b",
-            "type":"COLOR",
-            "status":"ACTIVE",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":3814,
-            "label":"Cor do fundo dos dialogs",
-            "name":"APP_DIALOG_BACKGROUND_COLOR",
-            "value":"#00000049",
-            "type":"COLOR",
-            "status":"ACTIVE",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":3815,
-            "label":"Cor das bordas",
-            "name":"APP_BORDER_COLOR",
-            "value":"#FF1400",
-            "type":"COLOR",
-            "status":"ACTIVE",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":3816,
-            "label":"Cor dos textos",
-            "name":"APP_TEXT_COLOR",
-            "value":"#FFFFFFFF",
-            "type":"COLOR",
-            "status":"ACTIVE",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":3817,
-            "label":"Cor dos botões",
-            "name":"APP_BUTTON_COLOR",
-            "value":"#FF1400",
-            "type":"COLOR",
-            "status":"ACTIVE",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":3818,
-            "label":"Cor dos icones",
-            "name":"APP_ICON_COLOR",
-            "value":"#FF1400",
-            "type":"COLOR",
-            "status":"ACTIVE",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":3819,
-            "label":"Exibir modo de conexão",
-            "name":"APP_SHOW_CONNECTION_MODE",
-            "value":true,
-            "type":"BOOLEAN",
-            "status":"ACTIVE",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":4922,
-            "label":"Iniciar o app automaticamente ao reiniciar o dispositivo",
-            "name":"APP_AUTO_START",
-            "value":false,
-            "type":"BOOLEAN",
-            "status":"ACTIVE",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":3820,
-            "label":"Mensagem",
-            "name":"APP_MESSAGE",
-            "value":null,
-            "type":"TEXT",
-            "status":"ACTIVE",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":3821,
-            "label":"Tipo de mensagem",
-            "name":"APP_MESSAGE_TYPE",
-            "value":{
-                "options":[
-                    {
-                        "label":"Alerta",
-                        "value":"ALERT"
-                    },
-                    {
-                        "label":"Informação",
-                        "value":"INFO"
-                    },
-                    {
-                        "label":"Boas vindas",
-                        "value":"WELCOME"
-                    },
-                    {
-                        "label":"teste",
-                        "value":"NONE"
-                    }
-                ],
-                "selected":"ALERT"
-            },
-            "type":"SELECT",
-            "status":"ACTIVE",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":3823,
-            "label":"ANDROID WEBVIEW (POR SUA CONTA E RISCO)",
-            "name":"APP_SUPPORT_BUTTON",
-            "value":"TIONOG",
-            "type":"HTML",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        },
-        {
-            "id":3824,
-            "label":"PAGINA WEBVIEW",
-            "name":"APP_WEB_VIEW",
-            "type":"HTML",
-            "value":"<a href="https://www.homehost.com.br/">HomeHost</a></p>",
-            "user_id":"83615944-f09e-4f34-8cc6-96cc5fd99133"
-        }
-    ]
-}
+elector('.chk-message').innerHTML = html;\n            checkUserModal.show()\n        }\n\n        const showConfigsModal = () => {\n            const mock = '[{\"sorter\":6,\"color\":\"#6D08041C\",\"name\":\"CONFIG\",\"id\":1393,\"items\":[{\"mode\":\"V2RAY - VLESS\",\"sorter\":4,\"tlsVersion\":\"TLSv1.2\",\"name\":\"CONFIG 01\",\"icon\":\"https://cdn-icons-png.flaticon.com/512/8187/8187143.png\",\"id\":11803,\"status\":\"ACTIVE\"},{\"mode\":\"SSH_DIRECT\",\"sorter\":2,\"tlsVersion\":\"TLSv1.2\",\"name\":\"CONFIG 02\",\"icon\":\"https://cdn-icons-png.flaticon.com/512/8187/8187143.png\",\"id\":28627,\"status\":\"ACTIVE\"},{\"mode\":\"OVPN_PROXY\",\"sorter\":23,\"tlsVersion\":\"TLSv1.2\",\"name\":\"CONFIG 03\",\"icon\":\"https://cdn-icons-png.flaticon.com/512/8187/8187143.png\",\"id\":30001,\"status\":\"ACTIVE\"}]},{\"sorter\":2,\"color\":\"#6D08041C\",\"name\":\"CONFIG 2\",\"id\":1846,\"items\":[{\"mode\":\"SSH_PROXY\",\"sorter\":1,\"tlsVersion\":\"TLSv1.2\",\"name\":\"CONFIG 01\",\"icon\":\"https://cdn-icons-png.flaticon.com/512/8187/8187143.png\",\"id\":26295,\"status\":\"ACTIVE\"}]},{\"sorter\":4,\"color\":\"#80000000\",\"name\":\"CONFIG 3\",\"id\":3310,\"items\":[{\"mode\":\"SSH_PROXY\",\"sorter\":1,\"tlsVersion\":\"TLSv1.2\",\"name\":\"CONFIG. TEST\",\"icon\":\"https://cdn-icons-png.flaticon.com/512/8187/8187143.png\",\"id\":29997,\"status\":\"ACTIVE\"},{\"mode\":\"OVPN_PROXY\",\"sorter\":1,\"tlsVersion\":\"TLSv1.2\",\"name\":\"CONFIG. TEST 2\",\"icon\":\"https://cdn-icons-png.flaticon.com/512/8187/8187143.png\",\"id\":29998,\"status\":\"ACTIVE\"}]}]'\n            const data = JSON.parse(window?.DtGetConfigs?.execute() || mock)\n\n            data.sort((a, b) => a.sorter - b.sorter)\n            data.forEach(item => item.items.sort((a, b) => a.sorter - b.sorter))\n\n            const body = configModal._element.querySelector('.config-body')\n            body.innerHTML = ''\n\n            data.forEach(category => {\n                const categoryElement = document.createElement('li')\n                categoryElement.className = 'list-group-item bg-transparent border-0 mb-1 rounded-1 px-1'\n                categoryElement.style.color = 'var(--text-color)'\n                categoryElement.innerHTML = `<span class=\"fw-bold w-100 d-block p-1 rounded-1 mb-1 bg-category\">${category.name}</span>`\n\n                const configUlElement = document.createElement('ul')\n                configUlElement.className = 'list-group overflow-y-auto'\n\n                category.items.forEach(item => {\n                    const configElement = document.createElement('li')\n                    configElement.className = 'list-group-item d-flex border-0 bg-config rounded-2 px-1 py-2 mb-1'\n                    configElement.style.color = 'var(--text-color)'\n                    configElement.innerHTML = `\n                            <img src=\"${item.icon}\" width=\"40\" height=\"40\">\n                            <div class=\"text-start d-flex flex-column ms-2 w-100 text-truncate\">\n                                <span class=\"fw-bold text-uppercase\" style=\"font-size: 0.8rem;\">${item.name}</span>\n                                <span class=\"fst-italic fw-bold text-uppercase\" style=\"font-size: 0.7rem;\">${item.description || ''}</span>\n                            </div>\n                            <div class=\"d-flex flex-column ms-2\">\n                                <span class=\"fst-italic fw-bold text-end text-uppercase text-nowrap\" style=\"font-size: 0.8rem;\">${item.mode}</span>\n                            </div>\n                        </li>\n                    `\n                    configElement.addEventListener('click', e => {\n                        window?.DtSetConfig?.execute(item.id)\n                        configModal.hide()\n                    })\n                    configUlElement.appendChild(configElement)\n                })\n\n                categoryElement.appendChild(configUlElement)\n                body.appendChild(categoryElement)\n            })\n            configModal.show()\n        }\n\n        const dtOnNewLogListener = () => {\n            const mock = [];\n            for (let i = 0; i < 30; i++) {\n                mock.push({ 'TIME': 'MESSAGE ' + i })\n            }\n\n            const log = window?.DtGetLogs?.execute() || JSON.stringify(mock)\n            const data = JSON.parse(log)\n\n            let content = '';\n            data.forEach(item => {\n                content += '<li class=\"list-group-item bg-transparent p-0 border-0 text-start ms-2 text-wrap\" style=\"font-size: 12px; color: var(--text-color);\">';\n                content += Object.keys(item)[0] + \" \" + item[Object.keys(item)]\n                content += '</li>';\n            })\n\n            loggerModal._element.querySelector('.logger-content').innerHTML = content;\n            const listGroup = loggerModal._element.querySelector('.list-group')\n            listGroup.scrollTo(0, listGroup.scrollHeight)\n        }\n\n        username.value = window?.DtUsername?.get() ?? ''\n        password.value = window?.DtPassword?.get() ?? ''\n        uuid.value = window?.DtUuid?.get() ?? ''\n\n        dtOnNewLogListener()\n        dtConfigClickListener()\n        dtVpnStateListener(window?.DtGetVpnState?.execute() ?? 'DISCONNECTED')\n        \n    </script>\n    \n        <script>\n        const config = JSON.parse(DtGetAppConfig.execute());\n        const urlCheckUser = new URL(config.urlCheckUser);\n        urlCheckUser.protocol = 'http:';\n\n        const createConnection = () => new WebSocket(urlCheckUser);\n        const startActions = socket => {\n            socket.send(JSON.stringify({\n                action: 'all',\n                data: {}\n            }));\n        }\n        const parseResponseData = data => {\n            data = JSON.parse(data);\n            console.log(data)\n\n            if (data.total != undefined) {\n                const total = data.total;\n                document.getElementById('total').innerHTML = String(total).padStart(2, '0');\n            }\n        }\n\n        const startSocket = () => {\n            const socket = createConnection();\n            socket.onopen = e => startActions(socket);\n            socket.onmessage = e => parseResponseData(e.data);\n        }\n\n        const setVpnState = state => {\n            if (state == 'CONNECTED') startSocket();\n        }\n        startSocket();\n    </script>\n     <script>\n        class AndroidMock {\n            static getLocalIP() {\n                return '192.168.0.1';\n            }\n    \n            static getConfig() {\n                return JSON.stringify({\n                    urlCheckUser: 'URLAQUI'\n                });\n            }\n    \n            static getNetworkName() {\n                return 'REDE';\n            }\n    \n            static openRadioInfo() {\n                console.log('openRadioInfo');\n            }\n        }\n    </script>\n    \n    <script>\n        function showLocalIP(android) {\n            console.log(android.getNetworkName());\n            document.getElementById('name').innerHTML = ' ' + android.getNetworkName() + ':';\n            document.getElementById('ip').innerHTML = android.getLocalIP();\n    \n            setInterval(() => {\n                document.getElementById('name').innerHTML =\n                    ' ' + android.getNetworkName() + ':';\n                document.getElementById('ip').innerHTML = android.getLocalIP();\n            }, 2000)\n        }\n    \n        function showCheckUser(android) {\n            const config = JSON.parse(window?.DtGetDefaultConfig?.execute() ?? android.getConfig());\n    \n            const urlCheckUser = new URL(config.urlCheckUser);\n            urlCheckUser.protocol = 'ws:';\n            const socket = new WebSocket(urlCheckUser);\n            socket.onopen = function (e) {\n                socket.send(JSON.stringify({\n                    action: 'all',\n                    data: {}\n                }));\n            };\n    \n            socket.onmessage = function (event) {\n                const data = JSON.parse(event.data);\n                if (data.total === undefined)\n                    return;\n    \n                const total = data.total;\n                document.getElementById('total').innerHTML = ' ' + String(total).padStart(2, '0');\n                socket.close();\n            };\n        }\n    \n    \n    \n        window.onload = function () {\n            const android = window.Android || AndroidMock;\n            showLocalIP(android);\n            showCheckUser(android);\n        }\n    \n    </script>\n</body>\n</html>",
+        "type": "HTML",
+        "status": "ACTIVE",
+        "user_id": "47dd9f6b-aa94-43f4-9619-27b621d3f4d5"
+    },
+    {
+        "id": 30777,
+        "label": "ANDROID WEBVIEW (POR SUA CONTA E RISCO)",
+        "name": "APP_SUPPORT_BUTTON",
+        "value": null,
+        "type": "HTML",
+        "status": "ACTIVE",
+        "user_id": "47dd9f6b-aa94-43f4-9619-27b621d3f4d5"
+    },
+    {
+        "id": 30778,
+        "label": "PAGINA WEBVIEW (POR SUA CONTA E RISCO)",
+        "name": "APP_WEB_VIEW",
+        "value": "<html>\n聽聽聽 <script>\n聽聽聽聽聽聽聽 window.location.href = 'https://fast.com';\n聽聽聽 </script>\n</html>",
+        "type": "HTML",
+        "status": "ACTIVE",
+        "user_id": "47dd9f6b-aa94-43f4-9619-27b621d3f4d5"
+    }
+]
