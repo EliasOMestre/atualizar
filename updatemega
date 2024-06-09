@@ -287,7 +287,7 @@
         },
         "config_v2ray": null,
         "created_at": "2023-07-30 17:51:58",
-        "description": "Tim sem promoção",
+        "description": "Tim sem cadastro",
         "dns_server": {
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
@@ -338,24 +338,24 @@
             "payload": "HTTP/ [crlf][crlf][crlf]",
             "sni": null
         },
-        "config_v2ray": null,
+        "config_v2ray": "eyJhZGQiOiJldmVudHMuZm9yeW91LmVyaWNzc29uLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYnIxLmdhbWVzdHlsaXNoLnh5eiIsImlkIjoiODY5MzEwY2QtOGFlZC00MmUyLWE5ZjMtOWE2NmEwM2IxMmM0IiwibmV0Ijoid3MiLCJwYXRoIjoiL0JqRDZuQ2NLLyIsInBvcnQiOiI0NDMiLCJwcyI6Im1ldXByaXZhZG8iLCJzY3kiOiJhdXRvIiwic25pIjoiYXBwLmM2YmFuay5hcHAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
         "created_at": "2023-07-30 17:51:58",
-        "description": "Tim sem promoção",
+        "description": "Tim regiões",
         "dns_server": {
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
         "icon": "https://i.ibb.co/Q9FpVwk/timlogo-fw.png",
         "id": 69768,
-        "mode": "SSH_PROXY",
-        "name": "TIM 1 ➜ CONFIG 1 ➜ EXP",
+        "mode": "V2RAY",
+        "name": "TIM 2 ➜ CONFIG 2 ➜ EXP",
         "proxy": {
-            "host": "140.238.183.99",
-            "port": "80"
+            "host": null,
+            "port": null
         },
         "server": {
-            "host": "140.238.183.99",
-            "port": 80
+            "host": null,
+            "port": null
         },
         "sorter": 5,
         "status": "ACTIVE",
