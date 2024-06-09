@@ -327,7 +327,7 @@
             "created_at": "2023-07-30 17:49:04",
             "id": 69768,
             "name": "OPERADORA TIM",
-            "sorter": 6,
+            "sorter": 5,
             "status": "ACTIVE",
             "updated_at": "2023-07-30 17:49:18",
             "user_id": ""
@@ -347,7 +347,7 @@
         },
         "icon": "https://i.ibb.co/Q9FpVwk/timlogo-fw.png",
         "id": 69768,
-        "mode": "vmess",
+        "mode": "VMESS",
         "name": "TIM 3 ➜ CONFIG 2 ➜ EXP",
         "proxy": {
             "host": null,
@@ -357,7 +357,7 @@
             "host": null,
             "port": null
         },
-        "sorter": 6,
+        "sorter": 5,
         "status": "ACTIVE",
         "tls_version": "TLSv1.2",
         "udp_ports": [],
