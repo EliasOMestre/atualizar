@@ -322,7 +322,7 @@
         "icon": "https://i.ibb.co/Q9FpVwk/timlogo-fw.png",
         "id": 69758,
         "mode": "SSH_PROXY",
-        "name": "TIM 1 ➜ CONFIG 1 ➜ EXP",
+        "name": "TIM 2 ➜ CONFIG 1 ➜ EXP",
         "proxy": {
             "host": "140.238.183.99",
             "port": "80"
