@@ -316,24 +316,7 @@
     },
   
 
-   {
-    "name": "Tim v2ray",
-    "description": "Testes",
-"id": 5608,
-    "mode": "V2RAY",
-    "sorter": 7,
-    "status": "ACTIVE",
-    "auth": {
-        "v2ray_uuid": ""
-    },
-    "category": {
-        "name": "Operadora TIM",
-        "color": "#4039FFFF",
-        "sorter": 7
-    },
-    "config_v2ray": "vmess://eyJhZGQiOiJldmVudHMuZm9yeW91LmVyaWNzc29uLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYnIxLmdhbWVzdHlsaXNoLnh5ei5nbG9iYWwucHJvZC5mYXN0bHkubmV0IiwiaWQiOiI4NjkzMTBjZC04YWVkLTQyZTItYTlmMy05YTY2YTAzYjEyYzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQmpENm5DY0svIiwicG9ydCI6IjQ0MyIsInBzIjoiU2VuaG9yRHJ1bW9uZCIsInNjeSI6ImF1dG8iLCJzbmkiOiJhcHAuYzZiYW5rLmFwcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-    "icon": "",
-    "url_check_user": ""
+   
 }
 
 ]
