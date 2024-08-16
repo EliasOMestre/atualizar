@@ -1,33 +1,33 @@
 [
     {
-        "id": 26680,
+        "id": 8739,
         "label": "Nome do app",
         "name": "APP_NAME",
-        "value": "FTINTERNET 2024",
+        "value": "Plenonet",
         "type": "STRING",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 26681,
+        "id": 8740,
         "label": "Logo do app",
         "name": "APP_LOGO",
-        "value": "https://i.ibb.co/hZtkTCV/IMG-20240102-194942-368.png",
+        "value": "https://i.ibb.co/z2nx6bF/DT01hvn4ps.png",
         "type": "IMAGE",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 26682,
+        "id": 8741,
         "label": "Imagem de fundo",
         "name": "APP_BACKGROUND_IMAGE",
-        "value": "https://images.unsplash.com/photo-1530075288903-69b220251c3e?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90",
+        "value": "https://i.ibb.co/vPsB2GY/DTh32es16x.jpg",
         "type": "IMAGE",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 3810,
+        "id": 8742,
         "label": "Tipo do fundo do app",
         "name": "APP_BACKGROUND_TYPE",
         "value": {
@@ -41,275 +41,275 @@
                     "value": "COLOR"
                 }
             ],
-            "selected": "IMAGE"
+            "selected": "COLOR"
         },
         "type": "SELECT",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 3811,
+        "id": 8743,
         "label": "Cor de fundo",
         "name": "APP_BACKGROUND_COLOR",
-        "value": "#080E16C7",
+        "value": "#080e16c7",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 3812,
+        "id": 8744,
         "label": "Cor do card inicial",
         "name": "APP_CARD_COLOR",
-        "value": "#00000093",
+        "value": "#1d242e73",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 7979,
+        "id": 8745,
         "label": "Raio do card inicial",
         "name": "APP_CARD_RADIUS",
-        "value": 30,
+        "value": 20,
         "type": "INTEGER",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 7980,
+        "id": 8746,
         "label": "Cor do card de status",
         "name": "APP_CARD_STATUS_COLOR",
-        "value": "#000000AA",
+        "value": "#1d242e73",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 7981,
+        "id": 8747,
         "label": "Raio do card de status",
         "name": "APP_CARD_STATUS_RADIUS",
-        "value": 35,
+        "value": 25,
         "type": "INTEGER",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 3813,
-        "label": "Cor do card de configurações",
+        "id": 8748,
+        "label": "Cor do card de configura莽玫es",
         "name": "APP_CARD_CONFIG_COLOR",
-        "value": "#00000080",
+        "value": "#0E171EC9",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 3814,
+        "id": 8749,
         "label": "Cor do fundo dos dialogs",
         "name": "APP_DIALOG_BACKGROUND_COLOR",
-        "value": "#24242463",
+        "value": "#050C5AE4",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 11850,
+        "id": 11633,
         "label": "Cor do fundo do dialog de log",
         "name": "APP_DIALOG_LOGGER_COLOR",
-        "value": "#24242463",
+        "value": "#080e16c7",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 3815,
+        "id": 8750,
         "label": "Cor das bordas",
         "name": "APP_BORDER_COLOR",
-        "value": "#24242463",
+        "value": "#1d242e73",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 7982,
+        "id": 8751,
         "label": "Cor dos inputs",
         "name": "APP_INPUT_COLOR",
-        "value": "#242424BF",
+        "value": "#1d242e73",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 7983,
+        "id": 8752,
         "label": "Raio dos inputs",
         "name": "APP_INPUT_RADIUS",
-        "value": 35,
+        "value": 25,
         "type": "INTEGER",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 3816,
+        "id": 8753,
         "label": "Cor dos textos",
         "name": "APP_TEXT_COLOR",
-        "value": "#2AAFFFFF",
+        "value": "#FFFFFFFF",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 3817,
-        "label": "Cor dos botões",
+        "id": 8754,
+        "label": "Cor dos bot玫es",
         "name": "APP_BUTTON_COLOR",
-        "value": "#FF0000BF",
+        "value": "#1d242e73",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 7984,
-        "label": "Raio dos botões",
+        "id": 8755,
+        "label": "Raio dos bot玫es",
         "name": "APP_BUTTON_RADIUS",
-        "value": 35,
+        "value": 25,
         "type": "INTEGER",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 3818,
+        "id": 8756,
         "label": "Cor dos icones",
         "name": "APP_ICON_COLOR",
-        "value": "#1FBE2BFF",
+        "value": "#FFFFFFFF",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 3819,
-        "label": "Exibir modo de conexão",
+        "id": 8757,
+        "label": "Exibir modo de conex茫o",
         "name": "APP_SHOW_CONNECTION_MODE",
-        "value": "true",
+        "value": false,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 22784,
-        "label": "Atualizar automaticamente as configurações ao lançar uma atualização.",
+        "id": 22651,
+        "label": "Atualizar automaticamente as configura莽玫es ao lan莽ar uma atualiza莽茫o.",
         "name": "APP_CONFIG_AUTO_UPDATE",
         "value": false,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 4922,
+        "id": 8758,
         "label": "Iniciar o app automaticamente ao reiniciar o dispositivo",
         "name": "APP_AUTO_START",
         "value": false,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 7985,
-        "label": "Usar limiter de conexão",
+        "id": 8759,
+        "label": "Usar limiter de conex茫o",
         "name": "APP_CONNECTION_LIMITER",
-        "value": false,
+        "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 12836,
-        "label": "Usar botão de atualizações",
+        "id": 12404,
+        "label": "Usar bot茫o de atualiza莽玫es",
         "name": "APP_BTN_UPDATE_ENABLED",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 12837,
-        "label": "Usar botão de registros",
+        "id": 12405,
+        "label": "Usar bot茫o de registros",
         "name": "APP_BTN_LOGGER_ENABLED",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 12838,
-        "label": "Usar botão de pagina webview",
+        "id": 12406,
+        "label": "Usar bot茫o de pagina webview",
         "name": "APP_BTN_PAGE_ENABLED",
-        "value": false,
+        "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 14425,
+        "id": 13825,
         "label": "Ativar dialog de erros",
         "name": "APP_DIALOG_ERROR_ENABLED",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 14426,
+        "id": 13826,
         "label": "Ativar dialog de checkuser",
         "name": "APP_CHECKUSER_DIALOG_ENABLED",
-        "value": "true",
+        "value": false,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 14427,
+        "id": 13827,
         "label": "Ativar toast de sucesso",
         "name": "APP_SUCCESS_TOAST_ENABLED",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 14428,
+        "id": 13828,
         "label": "Ativar toast de erro",
         "name": "APP_ERROR_TOAST_ENABLED",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 14429,
+        "id": 18285,
         "label": "Usar layout webview",
         "name": "APP_LAYOUT_WEBVIEW_ENABLED",
-        "value": "false",
+        "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 3820,
+        "id": 8760,
         "label": "Mensagem",
         "name": "APP_MESSAGE",
-        "value": "Bem-vindo ao FTINTERNET ",
+        "value": "ATEN脟脙O CLIENTE VIVO PR脡 QUE BUSCA UMA MELHOR CONEX脙O, MIGREM PARA O VIVO EASY, ADQUIRINDO 5 DI脕RIAS DO TINDER, 5 DE WHATSAPP E 5 DE PINTEREST, A SUA CONEX脙O DURA EM TORNO DE 2 MESES, VIVO EASY N脙O 脡 NECESS脕RIO FAZER RECARGA MENSAL E VOC脢 PODE CANCELAR A HORA QUE QUISER.",
         "type": "TEXT",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 3822,
-        "label": "URL de atualização do aplicativo",
+        "id": 8761,
+        "label": "URL de atualiza莽茫o do aplicativo",
         "name": "APP_UPDATE_URL",
         "value": null,
         "type": "URL",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 3821,
+        "id": 8762,
         "label": "Tipo de mensagem",
         "name": "APP_MESSAGE_TYPE",
         "value": {
@@ -319,7 +319,7 @@
                     "value": "ALERT"
                 },
                 {
-                    "label": "Informação",
+                    "label": "Informa莽茫o",
                     "value": "INFO"
                 },
                 {
@@ -331,23 +331,14 @@
                     "value": "NONE"
                 }
             ],
-            "selected": "WELCOME"
+            "selected": "INFO"
         },
         "type": "SELECT",
         "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
+        "user_id": "acff48c5-0c40-4493-847a-a48a2807318d"
     },
     {
-        "id": 14430,
+        "id": 18286,
         "label": "LAYOUT WEBVIEW (POR SUA CONTA E RISCO)",
         "name": "APP_LAYOUT_WEBVIEW",
-        "value": "",
-        "type": "HTML",
-        "status": "ACTIVE",
-        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
-    },
-    {
-        "id": 3823,
-        "label": "ANDROID WEBVIEW (POR SUA CONTA E RISCO)",
-        "name": "APP_SUPPORT_BUTTON",
-        "value": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n\r\n<head>\r\n  <meta charset=\"UTF-8\" />\r\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\r\n  <link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css\" rel=\"stylesheet\">\r\n  <link href=\"https://cdn.jsdelivr.net/npm/bootstrap-icons@1.19.0/font/bootstrap-icons.css\" rel=\"stylesheet\">\r\n\r\n  <title>302642871 - @MRSILENT1 </title>\r\n\r\n  <style>\r\n    :root {\r\n      font-family: system-ui, Helvetica, Arial, sans-serif;\r\n      line-height: 1.5;\r\n      font-weight: 400;\r\n      font-synthesis: none;\r\n      text-rendering: optimizeLegibility;\r\n      -webkit-font-smoothing: antialiased;\r\n      -moz-osx-font-smoothing: grayscale;\r\n      text-size-adjust: 100%;\r\n      -webkit-text-size-adjust: 100%;\r\n      /*background-color: red;*/\r\n      --space-status-bar: 10px;\r\n      --space-nav-bar: 33px;\r\n      font-weight: bold;\r\n    }\r\n\r\n    :is(*, *::before, *::after) {\r\n      margin: 0;\r\n      padding: 0;\r\n\r\n      box-sizing: border-box;\r\n    }\r\n\r\n    :is(html, body, main) {\r\n      width: 100%;\r\n      height: 100%;\r\n    }\r\n\r\n    :is(body) {\r\n      background: transparent;\r\n    }\r\n\r\n    :is(main) {\r\n      display: flex;\r\n      flex-direction: column;\r\n      padding: var(--space-status-bar) 10px var(--space-nav-bar) 10px;\r\n    }\r\n\r\n    :is(section.bottom) {\r\n      width: 100%;\r\n      height: auto;\r\n      display: flex;\r\n      flex-direction: column;\r\n      align-items: center;\r\n      margin-top: auto !important;\r\n    }\r\n\r\n    :is(section.bottom) :where(div.container-local-ip) {\r\n      width: auto;\r\n      height: auto;\r\n      display: flex;\r\n      align-items: center;\r\n      padding: 10px 15px;\r\n      border-radius: 10px;\r\n      box-shadow: 0px 0px 4px #24242463;\r\n      background: linear-gradient(to top right, #24242463, #24242463);\r\n      transition: all 0.3s ease 0.1s;\r\n    }\r\n\r\n    :is(section.bottom) :where(div.container-local-ip) :is(span) {\r\n      width: 100%;\r\n      height: auto;\r\n      color: #ffffff;\r\n      font-weight: 500;\r\n      font-size: 0.8rem;\r\n    }\r\n\r\n
+        "value": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n\n<head>\n    <meta charset=\"UTF-8\" />\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\n    <title>DTunnel</title>\n\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css\">\n    <link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css\" rel=\"stylesheet\"\n        integrity=\"sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ\" crossorigin=\"anonymous\">\n    <script type=\"text/javascript\"\n        src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js\"\n        integrity=\"sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe\"\n        crossorigin=\"anonymous\"></script>\n\n    <style>\n        @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');\n\n        :root {\n            --background-img: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(255,0,0,1) 100%);\n            --logo-img-url: url(https://plenonet.com.br/assets/images/plenonet-512512px-2-512x512.webp);\n\n            --input-border-radius: 5px;\n            --input-background-color: #0a091a55;\n\n            --card-border-radius: 5px;\n            --card-background-color: #0b092868;\n\n            --btn-background-color: #0a091a55;\n            --btn-border-radius: 5px;\n\n            --modal-background-color: #0b092868;\n\n            --text-color: #ffffff;\n            --icon-color: #FFFFFF;\n        }\n\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n            font-family: 'Roboto', sans-serif;\n        }\n\n        body {\n            height: 100vh;\n            display: flex;\n            flex-direction: column;\n            align-items: center;\n            justify-content: center;\n            background-repeat: no-repeat;\n            background-size: cover;\n        }\n\n        .container {\n    height: 100%;\n    display: flex;\n    flex-direction: column;\n    justify-content: center;\n    align-items: center;\n    max-width: 465px;\n    background: linear-gradient(180deg, r
