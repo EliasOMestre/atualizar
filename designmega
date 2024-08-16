@@ -1,33 +1,33 @@
 [
     {
-        "id": 22166,
+        "id": 26680,
         "label": "Nome do app",
         "name": "APP_NAME",
-        "value": "DTunnel VPN",
+        "value": "FTINTERNET 2024",
         "type": "STRING",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22167,
+        "id": 26681,
         "label": "Logo do app",
         "name": "APP_LOGO",
-        "value": null,
+        "value": "https://i.ibb.co/hZtkTCV/IMG-20240102-194942-368.png",
         "type": "IMAGE",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22168,
+        "id": 26682,
         "label": "Imagem de fundo",
         "name": "APP_BACKGROUND_IMAGE",
-        "value": null,
+        "value": "https://images.unsplash.com/photo-1530075288903-69b220251c3e?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90",
         "type": "IMAGE",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22169,
+        "id": 3810,
         "label": "Tipo do fundo do app",
         "name": "APP_BACKGROUND_TYPE",
         "value": {
@@ -41,275 +41,275 @@
                     "value": "COLOR"
                 }
             ],
-            "selected": "COLOR"
+            "selected": "IMAGE"
         },
         "type": "SELECT",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22170,
+        "id": 3811,
         "label": "Cor de fundo",
         "name": "APP_BACKGROUND_COLOR",
-        "value": "#080e16c7",
+        "value": "#080E16C7",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22171,
+        "id": 3812,
         "label": "Cor do card inicial",
         "name": "APP_CARD_COLOR",
-        "value": "#1d242e73",
+        "value": "#00000093",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22172,
+        "id": 7979,
         "label": "Raio do card inicial",
         "name": "APP_CARD_RADIUS",
-        "value": 20,
+        "value": 30,
         "type": "INTEGER",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22173,
+        "id": 7980,
         "label": "Cor do card de status",
         "name": "APP_CARD_STATUS_COLOR",
-        "value": "#1d242e73",
+        "value": "#000000AA",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22174,
+        "id": 7981,
         "label": "Raio do card de status",
         "name": "APP_CARD_STATUS_RADIUS",
-        "value": 25,
+        "value": 35,
         "type": "INTEGER",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22175,
+        "id": 3813,
         "label": "Cor do card de configurações",
         "name": "APP_CARD_CONFIG_COLOR",
-        "value": "#1D1D1D",
+        "value": "#00000080",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22176,
+        "id": 3814,
         "label": "Cor do fundo dos dialogs",
         "name": "APP_DIALOG_BACKGROUND_COLOR",
-        "value": "#1D1D1D",
+        "value": "#24242463",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22177,
+        "id": 11850,
         "label": "Cor do fundo do dialog de log",
         "name": "APP_DIALOG_LOGGER_COLOR",
-        "value": "#1D1D1D",
+        "value": "#24242463",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22178,
+        "id": 3815,
         "label": "Cor das bordas",
         "name": "APP_BORDER_COLOR",
-        "value": "#1d242e73",
+        "value": "#24242463",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22179,
+        "id": 7982,
         "label": "Cor dos inputs",
         "name": "APP_INPUT_COLOR",
-        "value": "#1d242e73",
+        "value": "#242424BF",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22180,
+        "id": 7983,
         "label": "Raio dos inputs",
         "name": "APP_INPUT_RADIUS",
-        "value": 25,
+        "value": 35,
         "type": "INTEGER",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22181,
+        "id": 3816,
         "label": "Cor dos textos",
         "name": "APP_TEXT_COLOR",
-        "value": "#FFFFFFFF",
+        "value": "#2AAFFFFF",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22182,
+        "id": 3817,
         "label": "Cor dos botões",
         "name": "APP_BUTTON_COLOR",
-        "value": "#1d242e73",
+        "value": "#FF0000BF",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22183,
+        "id": 7984,
         "label": "Raio dos botões",
         "name": "APP_BUTTON_RADIUS",
-        "value": 25,
+        "value": 35,
         "type": "INTEGER",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22184,
+        "id": 3818,
         "label": "Cor dos icones",
         "name": "APP_ICON_COLOR",
-        "value": "#FFFFFFFF",
+        "value": "#1FBE2BFF",
         "type": "COLOR",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22185,
+        "id": 3819,
         "label": "Exibir modo de conexão",
         "name": "APP_SHOW_CONNECTION_MODE",
-        "value": true,
+        "value": "true",
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22871,
+        "id": 22784,
         "label": "Atualizar automaticamente as configurações ao lançar uma atualização.",
         "name": "APP_CONFIG_AUTO_UPDATE",
-        "value": true,
+        "value": false,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22186,
+        "id": 4922,
         "label": "Iniciar o app automaticamente ao reiniciar o dispositivo",
         "name": "APP_AUTO_START",
         "value": false,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22187,
+        "id": 7985,
         "label": "Usar limiter de conexão",
         "name": "APP_CONNECTION_LIMITER",
         "value": false,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22188,
+        "id": 12836,
         "label": "Usar botão de atualizações",
         "name": "APP_BTN_UPDATE_ENABLED",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22189,
+        "id": 12837,
         "label": "Usar botão de registros",
         "name": "APP_BTN_LOGGER_ENABLED",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22190,
+        "id": 12838,
         "label": "Usar botão de pagina webview",
         "name": "APP_BTN_PAGE_ENABLED",
         "value": false,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22191,
+        "id": 14425,
         "label": "Ativar dialog de erros",
         "name": "APP_DIALOG_ERROR_ENABLED",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22192,
+        "id": 14426,
         "label": "Ativar dialog de checkuser",
         "name": "APP_CHECKUSER_DIALOG_ENABLED",
-        "value": false,
+        "value": "true",
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22193,
+        "id": 14427,
         "label": "Ativar toast de sucesso",
         "name": "APP_SUCCESS_TOAST_ENABLED",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22194,
+        "id": 14428,
         "label": "Ativar toast de erro",
         "name": "APP_ERROR_TOAST_ENABLED",
         "value": true,
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22195,
+        "id": 14429,
         "label": "Usar layout webview",
         "name": "APP_LAYOUT_WEBVIEW_ENABLED",
-        "value": false,
+        "value": "false",
         "type": "BOOLEAN",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22196,
+        "id": 3820,
         "label": "Mensagem",
         "name": "APP_MESSAGE",
-        "value": null,
+        "value": "Bem-vindo ao FTINTERNET ",
         "type": "TEXT",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22197,
+        "id": 3822,
         "label": "URL de atualização do aplicativo",
         "name": "APP_UPDATE_URL",
         "value": null,
         "type": "URL",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22198,
+        "id": 3821,
         "label": "Tipo de mensagem",
         "name": "APP_MESSAGE_TYPE",
         "value": {
@@ -331,37 +331,23 @@
                     "value": "NONE"
                 }
             ],
-            "selected": "NONE"
+            "selected": "WELCOME"
         },
         "type": "SELECT",
         "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22199,
+        "id": 14430,
         "label": "LAYOUT WEBVIEW (POR SUA CONTA E RISCO)",
         "name": "APP_LAYOUT_WEBVIEW",
-        "value": null,
+        "value": "",
         "type": "HTML",
-        "status": "INACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        "status": "ACTIVE",
+        "user_id": "RAUQ7JCB-HWPT-JNP8-3GLV-VC1HMUF97PAK"
     },
     {
-        "id": 22200,
+        "id": 3823,
         "label": "ANDROID WEBVIEW (POR SUA CONTA E RISCO)",
         "name": "APP_SUPPORT_BUTTON",
-        "value": null,
-        "type": "HTML",
-        "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
-    },
-    {
-        "id": 22201,
-        "label": "PAGINA WEBVIEW (POR SUA CONTA E RISCO)",
-        "name": "APP_WEB_VIEW",
-        "value": null,
-        "type": "HTML",
-        "status": "ACTIVE",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
-    }
-]
+        "value": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n\r\n<head>\r\n  <meta charset=\"UTF-8\" />\r\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\r\n  <link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css\" rel=\"stylesheet\">\r\n  <link href=\"https://cdn.jsdelivr.net/npm/bootstrap-icons@1.19.0/font/bootstrap-icons.css\" rel=\"stylesheet\">\r\n\r\n  <title>302642871 - @MRSILENT1 </title>\r\n\r\n  <style>\r\n    :root {\r\n      font-family: system-ui, Helvetica, Arial, sans-serif;\r\n      line-height: 1.5;\r\n      font-weight: 400;\r\n      font-synthesis: none;\r\n      text-rendering: optimizeLegibility;\r\n      -webkit-font-smoothing: antialiased;\r\n      -moz-osx-font-smoothing: grayscale;\r\n      text-size-adjust: 100%;\r\n      -webkit-text-size-adjust: 100%;\r\n      /*background-color: red;*/\r\n      --space-status-bar: 10px;\r\n      --space-nav-bar: 33px;\r\n      font-weight: bold;\r\n    }\r\n\r\n    :is(*, *::before, *::after) {\r\n      margin: 0;\r\n      padding: 0;\r\n\r\n      box-sizing: border-box;\r\n    }\r\n\r\n    :is(html, body, main) {\r\n      width: 100%;\r\n      height: 100%;\r\n    }\r\n\r\n    :is(body) {\r\n      background: transparent;\r\n    }\r\n\r\n    :is(main) {\r\n      display: flex;\r\n      flex-direction: column;\r\n      padding: var(--space-status-bar) 10px var(--space-nav-bar) 10px;\r\n    }\r\n\r\n    :is(section.bottom) {\r\n      width: 100%;\r\n      height: auto;\r\n      display: flex;\r\n      flex-direction: column;\r\n      align-items: center;\r\n      margin-top: auto !important;\r\n    }\r\n\r\n    :is(section.bottom) :where(div.container-local-ip) {\r\n      width: auto;\r\n      height: auto;\r\n      display: flex;\r\n      align-items: center;\r\n      padding: 10px 15px;\r\n      border-radius: 10px;\r\n      box-shadow: 0px 0px 4px #24242463;\r\n      background: linear-gradient(to top right, #24242463, #24242463);\r\n      transition: all 0.3s ease 0.1s;\r\n    }\r\n\r\n    :is(section.bottom) :where(div.container-local-ip) :is(span) {\r\n      width: 100%;\r\n      height: auto;\r\n      color: #ffffff;\r\n      font-weight: 500;\r\n      font-size: 0.8rem;\r\n    }\r\n\r\n
