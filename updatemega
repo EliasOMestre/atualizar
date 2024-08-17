@@ -18,7 +18,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "payload": "GET / HTTP/1.1[crlf]Host: br1.gamestylish.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "sni": "gedoc.vivo.com.br#www.alura.com.br#support.deezer.com#fitality.gr"
         },
         "config_v2ray": null,
