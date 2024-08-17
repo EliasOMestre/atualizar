@@ -1,8 +1,8 @@
 [
     {
         "auth": {
-            "password": "null",
-            "username": "null",
+            "password": null,
+            "username": null,
             "v2ray_uuid": null
         },
         "category": {
