@@ -5,8 +5,8 @@
     "sorter": 1,
     "status": "ACTIVE",
     "auth": {
-        "username": "",
-        "password": ""
+        "username": null,
+        "password": null
     },
     "category": {
         "name": "Tim",
@@ -32,5 +32,5 @@
     "udp_ports": [
         7300
     ],
-    "url_check_user": ""
+    "url_check_user": null
 }
