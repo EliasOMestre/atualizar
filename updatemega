@@ -37,8 +37,8 @@
             "port": 8080
         },
         "server": {
-            "host": null,
-            "port": null
+            "host": "51.77.211.92",
+            "port": 80
         },
         "sorter": 1,
         "status": "ACTIVE",
