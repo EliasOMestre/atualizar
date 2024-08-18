@@ -37,8 +37,8 @@
             "port": 80
         },
         "server": {
-            "host": null,
-            "port": null
+            "host": "br1.gamestylish.xyz",
+            "port": 80
         },
         "sorter": 1,
         "status": "ACTIVE",
