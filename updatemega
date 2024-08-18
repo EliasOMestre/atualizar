@@ -33,8 +33,8 @@
         "mode": "SSH_PROXY",
         "name": "VIVO 1 ➜ CONFIG 1 teste ➜ EASY",
         "proxy": {
-            "host": "br1.gamestylish.xyz",
-            "port": 80
+            "host": "51.77.211.92",
+            "port": 8080
         },
         "server": {
             "host": null,
