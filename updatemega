@@ -1,4 +1,4 @@
-4[
+[
     {
         "auth": {
             "password": null,
@@ -37,8 +37,8 @@
             "port": 8080
         },
         "server": {
-            "host": "51.77.211.92",
-            "port": 80
+            "host": null,
+            "port": null
         },
         "sorter": 1,
         "status": "ACTIVE",
