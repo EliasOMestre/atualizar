@@ -31,14 +31,14 @@
         "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
         "id": 67073,
         "mode": "SSH_PROXY",
-        "name": "VIVO 1 ➜ CONFIG 1 ➜ EASY",
+        "name": "VIVO 1 ➜ CONFIG 1 ate ➜ EASY",
         "proxy": {
-            "host": "51.77.211.92",
-            "port": 8080
+            "host": "br1.gamestylish.xyz",
+            "port": 80
         },
         "server": {
-            "host": "51.77.211.92",
-            "port": 8080
+            "host": "br1.gamestylish.xyz",
+            "port": 80
         },
         "sorter": 1,
         "status": "ACTIVE",
