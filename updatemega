@@ -31,13 +31,13 @@
   "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
   "id": 67073,
   "mode": "SSH_PROXY",
-  "name": "VIVO/TIM➜ CONFIG 1",
+  "name": "VIVO/TIM ➜ CONFIG 1",
   "proxy": {
-    "host": "br1.gamestylish.xyz",
+    "host": "141.193.213.11",
     "port": 80
   },
   "server": {
-    "host": "141.193.213.11",
+    "host": "br1.gamestylish.xyz",
     "port": 80
   },
   "sorter": 1,
