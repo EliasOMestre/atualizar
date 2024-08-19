@@ -18,7 +18,7 @@
   "category_id": 5467,
   "config_openvpn": null,
   "config_payload": {
-    "payload": "HTTP/ [crlf][crlf]|[crlf]",
+    "payload": "PATCH / HTTP/1.1[crlf]Host: br1.gamestylish.xyz[crlf]X-Forward-Host: br1.gamestylish.xyz[crlf]wss://[crlf]Connection: upgrade[crlf]upgrade: websocket[realData][crlf][crlf]",
     "sni": null
   },
   "config_v2ray": null,
@@ -31,13 +31,13 @@
   "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
   "id": 67073,
   "mode": "SSH_PROXY",
-  "name": "VIVO 1 ➜ CONFIG 1 ➜ EASY",
+  "name": "VIVO/TIM➜ CONFIG 1",
   "proxy": {
     "host": "br1.gamestylish.xyz",
     "port": 80
   },
   "server": {
-    "host": "br1.gamestylish.xyz",
+    "host": "141.193.213.11",
     "port": 80
   },
   "sorter": 1,
