@@ -18,8 +18,8 @@
         "category_id": "1",
         "config_openvpn": "null",
         "config_payload": {
-            "payload": null,
-            "sni": null
+            "payload": "GET / HTTP/1.1\\r\\nHost: br1.gamestylish.xyz\\r\\nUpgrade: websocket\\r\\n\\r\\n",
+            "sni": "null"
         },
         "config_v2ray": "null",
         "created_at": "2024-08-19 22:59:52.000000",
@@ -67,8 +67,8 @@
         "category_id": "2",
         "config_openvpn": "null",
         "config_payload": {
-            "payload": null,
-            "sni": null
+            "payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
+            "sni": "null"
         },
         "config_v2ray": "null",
         "created_at": "2024-08-19 22:59:52.000000",
