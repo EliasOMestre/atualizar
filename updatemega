@@ -1,58 +1,100 @@
 [
-{
-  "auth": {
-    "password": null,
-    "username": null,
-    "v2ray_uuid": null
-  },
-  "category": {
-    "color": "#80BB1CD4",
-    "created_at": "2023-07-24 16:38:13",
-    "id": 5467,
-    "name": "CATEGORIA 1 EXEMPLO MOD",
-    "sorter": 3,
-    "status": "ACTIVE",
-    "updated_at": "2023-07-24 16:38:13",
-    "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
-  },
-  "category_id": 5467,
-  "config_openvpn": null,
-  "config_payload": {
-    "payload": "PATCH / HTTP/1.1[crlf]Host: br1.gamestylish.xyz[crlf]X-Forward-Host: br1.gamestylish.xyz[crlf]wss://[crlf]Connection: upgrade[crlf]upgrade: websocket[realData][crlf][crlf]",
-    "sni": null
-  },
-  "config_v2ray": null,
-  "created_at": "2023-07-24 18:20:49",
-  "description": "Config exemplo mod",
-  "dns_server": {
-    "dns1": "8.8.8.8",
-    "dns2": "8.8.4.4"
-  },
-  "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
-  "id": 67073,
-  "mode": "SSH_PROXY",
-  "name": "VIVO/TIM ➜ CONFIG 1",
-  "proxy": {
-    "host": "141.193.213.11",
-    "port": 80
-  },
-  "server": {
-    "host": "br1.gamestylish.xyz",
-    "port": 80
-  },
-  "sorter": 1,
-  "status": "ACTIVE",
-  "tls_version": "TLSv1.2",
-  "udp_ports": [
-    7300
-  ],
-  "updated_at": "2023-08-28 16:05:46",
-  "url_check_user": null,
-  "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
-}
-
-
-
-
-
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#80BB1CD4",
+            "created_at": "2024-08-19 21:57:08.000000",
+            "id": "1",
+            "name": "VIVO",
+            "sorter": "1",
+            "status": "ACTIVE",
+            "updated_at": null,
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": "1",
+        "config_openvpn": "null",
+        "config_payload": {
+            "payload": null,
+            "sni": null
+        },
+        "config_v2ray": "null",
+        "created_at": "2024-08-19 22:59:52.000000",
+        "description": "Pega no vivo pr\u00e9",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
+        "id": "1",
+        "mode": "SSH_PROXY",
+        "name": "VIVO 1 \u279c CONFIG 1 \u279c PR\u00c9",
+        "proxy": {
+            "host": "104.18.23.26",
+            "port": "80"
+        },
+        "server": {
+            "host": "br1.gamestylish.xyz",
+            "port": "80"
+        },
+        "sorter": "1",
+        "status": null,
+        "tls_version": null,
+        "udp_ports": null,
+        "updated_at": "2024-08-19 22:59:52.000000",
+        "url_check_user": "null",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#80BB1CD4",
+            "created_at": "2024-08-19 21:57:08.000000",
+            "id": "2",
+            "name": "TIM",
+            "sorter": "2",
+            "status": "ACTIVE",
+            "updated_at": null,
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": "2",
+        "config_openvpn": "null",
+        "config_payload": {
+            "payload": null,
+            "sni": null
+        },
+        "config_v2ray": "null",
+        "created_at": "2024-08-19 22:59:52.000000",
+        "description": "chip n\u00e3o cadastrado",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
+        "id": "2",
+        "mode": "SSH_PROXY",
+        "name": "TIM 1 \u279c CONFIG 1 \u279c S/M CADASTRO",
+        "proxy": {
+            "host": "51.77.211.92",
+            "port": "8080"
+        },
+        "server": {
+            "host": "br1.gamestylish.xyz",
+            "port": "80"
+        },
+        "sorter": "1",
+        "status": null,
+        "tls_version": null,
+        "udp_ports": null,
+        "updated_at": "2024-08-19 22:59:52.000000",
+        "url_check_user": "null",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    }
 ]
