@@ -12,7 +12,7 @@
             "name": "VIVO",
             "sorter": "1",
             "status": "ACTIVE",
-            "updated_at": null,
+            "updated_at": "2024-08-19 21:57:08.000000",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": "1",
@@ -61,7 +61,7 @@
             "name": "TIM",
             "sorter": "2",
             "status": "ACTIVE",
-            "updated_at": null,
+            "updated_at": "2024-08-19 21:57:08.000000",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": "2",
