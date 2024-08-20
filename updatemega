@@ -7,44 +7,46 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-08-19 21:57:08",
+            "created_at": "2024-08-19 21:57:08.000000",
             "id": "1",
             "name": "VIVO",
-            "sorter": "1",
+            "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2024-08-19 21:57:08",
+            "updated_at": "2024-08-19 21:57:08.000000",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
-        "category_id": "1",
+        "category_id": 1,
         "config_openvpn": null,
         "config_payload": {
             "payload": "GET / HTTP/1.1\\r\\nHost: br1.gamestylish.xyz\\r\\nUpgrade: websocket\\r\\n\\r\\n",
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-08-19 22:59:52",
+        "created_at": "2024-08-19 22:59:52.000000",
         "description": "Pega no vivo pré",
         "dns_server": {
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
         "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
-        "id": "1",
+        "id": 1,
         "mode": "SSH_PROXY",
         "name": "VIVO 1 ➜ CONFIG 1 ➜ PRÉ",
         "proxy": {
             "host": "104.18.23.26",
-            "port": "80"
+            "port": 80
         },
         "server": {
             "host": "br1.gamestylish.xyz",
-            "port": "80"
+            "port": 80
         },
-        "sorter": "1",
+        "sorter": 1,
         "status": "ACTIVE",
         "tls_version": "TLSv1.3",
-        "udp_ports": "7300",
-        "updated_at": "2024-08-19 22:59:52",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2024-08-19 22:59:52.000000",
         "url_check_user": null,
         "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
     },
@@ -56,44 +58,46 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-08-19 21:57:08",
+            "created_at": "2024-08-19 21:57:08.000000",
             "id": "2",
             "name": "TIM",
-            "sorter": "2",
+            "sorter": 2,
             "status": "ACTIVE",
-            "updated_at": "2024-08-19 21:57:08",
+            "updated_at": "2024-08-19 21:57:08.000000",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
-        "category_id": "2",
+        "category_id": 2,
         "config_openvpn": null,
         "config_payload": {
             "payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-08-19 22:59:52",
+        "created_at": "2024-08-19 22:59:52.000000",
         "description": "chip não cadastrado",
         "dns_server": {
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
         "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
-        "id": "2",
+        "id": 2,
         "mode": "SSH_PROXY",
         "name": "TIM 1 ➜ CONFIG 1 ➜ S/M CADASTRO",
         "proxy": {
             "host": "51.77.211.92",
-            "port": "8080"
+            "port": 8080
         },
         "server": {
             "host": "br1.gamestylish.xyz",
-            "port": "80"
+            "port": 80
         },
-        "sorter": "1",
+        "sorter": 1,
         "status": "ACTIVE",
         "tls_version": "TLSv1.3",
-        "udp_ports": "7300",
-        "updated_at": "2024-08-19 22:59:52",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2024-08-19 22:59:52.000000",
         "url_check_user": null,
         "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
     }
