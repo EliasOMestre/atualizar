@@ -7,12 +7,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-08-20 11:57:05",
+            "created_at": "2024-08-22 10:40:10",
             "id": 1,
             "name": "VIVO",
             "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2024-08-20 11:57:05",
+            "updated_at": "2024-08-22 10:40:10",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 1,
@@ -22,7 +22,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-08-20 11:57:05",
+        "created_at": "2024-08-22 10:40:10",
         "description": "Pega no vivo pré",
         "dns_server": {
             "dns1": "8.8.8.8",
@@ -58,12 +58,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-08-20 11:57:05",
+            "created_at": "2024-08-22 10:40:10",
             "id": 2,
             "name": "TIM",
             "sorter": 2,
             "status": "ACTIVE",
-            "updated_at": "2024-08-20 11:57:05",
+            "updated_at": "2024-08-22 10:40:10",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 2,
@@ -73,7 +73,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-08-20 11:57:05",
+        "created_at": "2024-08-22 10:40:10",
         "description": "chip não cadastrado",
         "dns_server": {
             "dns1": "8.8.8.8",
@@ -98,6 +98,57 @@
             7300
         ],
         "updated_at": "2024-08-19 22:59:52",
+        "url_check_user": null,
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#80BB1CD4",
+            "created_at": "2024-08-22 10:40:10",
+            "id": 5,
+            "name": "SERVIDOR DE TESTE PRIVADO",
+            "sorter": 5,
+            "status": "ACTIVE",
+            "updated_at": "2024-08-22 10:40:10",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "HTTP/ [crlf]host:launches.appsflyer.com[crlf][crlf]@@@",
+            "sni": null
+        },
+        "config_v2ray": null,
+        "created_at": "2024-08-22 10:40:10",
+        "description": "Pra teste privado",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
+        "id": 3,
+        "mode": "SSH_PROXY",
+        "name": "TIM EXPIRADO ➜ TESTE ➜ PRIVADO",
+        "proxy": {
+            "host": "186.233.117.77",
+            "port": 80
+        },
+        "server": {
+            "host": "186.233.117.77",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2024-08-21 23:30:33",
         "url_check_user": null,
         "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
     }
