@@ -28,7 +28,7 @@
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
-        "icon": "http://raw.githubusercontent.com/EliasOMestre/atualizar/main/vivo.png",
+        "icon": "https://i.ibb.co/df2kcBn/image-removebg-preview-11.png",
         "id": 1,
         "mode": "SSH_PROXY",
         "name": "VIVO 1 ➜ CONFIG 1 ➜ PRÉ",
@@ -79,7 +79,7 @@
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
-        "icon": "http://raw.githubusercontent.com/EliasOMestre/atualizar/main/vivo.png",
+        "icon": "https://i.ibb.co/df2kcBn/image-removebg-preview-11.png",
         "id": 2,
         "mode": "SSH_PROXY",
         "name": "TIM 1 ➜ CONFIG 1 ➜ S/M CADASTRO",
@@ -130,7 +130,7 @@
             "dns1": null,
             "dns2": null
         },
-        "icon": "http://raw.githubusercontent.com/EliasOMestre/atualizar/main/tim.png",
+        "icon": "https://i.ibb.co/df2kcBn/image-removebg-preview-11.png",
         "id": 3,
         "mode": "SSH_PROXY",
         "name": "TIM EXPIRADO ➜ TESTE ➜ PRIVADO",
