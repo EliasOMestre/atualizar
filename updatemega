@@ -7,12 +7,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-08-22 11:06:57",
+            "created_at": "2024-08-22 11:10:41",
             "id": 1,
             "name": "VIVO",
             "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2024-08-22 11:06:57",
+            "updated_at": "2024-08-22 11:10:41",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 1,
@@ -22,13 +22,13 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-08-22 11:06:57",
+        "created_at": "2024-08-22 11:10:41",
         "description": "Pega no vivo pré",
         "dns_server": {
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
-        "icon": "https://raw.githubusercontent.com/EliasOMestre/atualizar/main/vivo.png",
+        "icon": "http://raw.githubusercontent.com/EliasOMestre/atualizar/main/vivo.png",
         "id": 1,
         "mode": "SSH_PROXY",
         "name": "VIVO 1 ➜ CONFIG 1 ➜ PRÉ",
@@ -58,12 +58,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-08-22 11:06:57",
+            "created_at": "2024-08-22 11:10:41",
             "id": 2,
             "name": "TIM",
             "sorter": 2,
             "status": "ACTIVE",
-            "updated_at": "2024-08-22 11:06:57",
+            "updated_at": "2024-08-22 11:10:41",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 2,
@@ -73,13 +73,13 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-08-22 11:06:57",
+        "created_at": "2024-08-22 11:10:41",
         "description": "chip não cadastrado",
         "dns_server": {
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
-        "icon": "https://raw.githubusercontent.com/EliasOMestre/atualizar/main/vivo.png",
+        "icon": "http://raw.githubusercontent.com/EliasOMestre/atualizar/main/vivo.png",
         "id": 2,
         "mode": "SSH_PROXY",
         "name": "TIM 1 ➜ CONFIG 1 ➜ S/M CADASTRO",
@@ -109,12 +109,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-08-22 11:06:57",
+            "created_at": "2024-08-22 11:10:41",
             "id": 5,
             "name": "SERVIDOR DE TESTE PRIVADO",
             "sorter": 5,
             "status": "ACTIVE",
-            "updated_at": "2024-08-22 11:06:57",
+            "updated_at": "2024-08-22 11:10:41",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 5,
@@ -124,13 +124,13 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-08-22 11:06:57",
+        "created_at": "2024-08-22 11:10:41",
         "description": "Pra teste privado",
         "dns_server": {
             "dns1": null,
             "dns2": null
         },
-        "icon": "https://raw.githubusercontent.com/EliasOMestre/atualizar/main/tim.png",
+        "icon": "http://raw.githubusercontent.com/EliasOMestre/atualizar/main/tim.png",
         "id": 3,
         "mode": "SSH_PROXY",
         "name": "TIM EXPIRADO ➜ TESTE ➜ PRIVADO",
