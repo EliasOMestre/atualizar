@@ -1,0 +1,88 @@
+<?php
+// Conexão com o banco de dados usando PDO
+$dsn = 'mysql:host=localhost;dbname=megacon_ssh;charset=utf8';
+$username = 'megacon_ssh';
+$password = 'BsJHzsnNnKH2yXei';
+
+try {
+    $pdo = new PDO($dsn, $username, $password);
+    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+
+    // Consulta para buscar dados da tabela dtmod-configs (usando crase ` para evitar problemas com hífen)
+    $sql = "SELECT * FROM `dtmod-configs`";
+    $stmt = $pdo->prepare($sql);
+    $stmt->execute();
+    $configs = $stmt->fetchAll(PDO::FETCH_ASSOC);
+
+    $result = [];
+
+    foreach ($configs as $config) {
+        // Consulta para buscar dados da tabela dtmod-category baseado no category_id
+        $sqlCategory = "SELECT * FROM `dtmod-category` WHERE id = :category_id";
+        $stmtCategory = $pdo->prepare($sqlCategory);
+        $stmtCategory->bindParam(':category_id', $config['category_id'], PDO::PARAM_INT);
+        $stmtCategory->execute();
+        $category = $stmtCategory->fetch(PDO::FETCH_ASSOC);
+
+        // Montar o JSON com os dados necessários
+        $configJson = [
+            "auth" => [
+                "password" => $config['auth_password'] ?? null,
+                "username" => $config['auth_username'] ?? null,
+                "v2ray_uuid" => $config['auth_v2ray_uuid'] ?? null
+            ],
+            "category" => [
+                "color" => $category['color'] ?? null,
+                "created_at" => (new DateTime($category['updated_at']))->format('Y-m-d H:i:s') ?? null,
+                "id" => (int)$category['id'] ?? null,
+                "name" => $category['name'] ?? null,
+                "sorter" => (int)$category['sorter'] ?? null,
+                "status" => $category['status'] ?? null,
+                "updated_at" => (new DateTime($category['updated_at']))->format('Y-m-d H:i:s') ?? null,
+                "user_id" => $category['user_id'] ?? null
+            ],
+            "category_id" => (int)$config['category_id'] ?? null,
+            "config_openvpn" => $config['config_openvpn'] ?? null,
+            "config_payload" => [
+                "payload" => $config['payload'] ?? null,
+                "sni" => $config['sni'] ?? null
+            ],
+            "config_v2ray" => $config['config_v2ray'] ?? null,
+            "created_at" => (new DateTime($category['updated_at']))->format('Y-m-d H:i:s') ?? null,
+            "description" => $config['description'] ?? null,
+            "dns_server" => [
+                "dns1" => $config['dns1'] ?? "",
+                "dns2" => $config['dns2'] ?? ""
+            ],
+            "icon" => $config['icon'] ?? null,
+            "id" => (int)$config['id'] ?? null,
+            "mode" => $config['mode'] ?? null,
+            "name" => $config['name'] ?? null,
+            "proxy" => [
+                "host" => $config['proxy'] ?? null,
+                "port" => (int)$config['proxyport'] ?? null
+            ],
+            "server" => [
+                "host" => $config['host'] ?? null,
+                "port" => (int)$config['hostport'] ?? null
+            ],
+            "sorter" => (int)$config['sorter'] ?? null,
+            "status" => $config['status'] ?? null,
+            "tls_version" => "TLSv1.3",
+            "udp_ports" =>[ 7300  ],
+            "updated_at" => (new DateTime($config['updated_at']))->format('Y-m-d H:i:s') ?? null,
+            "url_check_user" => $config['url_check_user'] ?? null,
+            "user_id" => $config['user_id'] ?? null
+        ];
+
+        $result[] = $configJson;
+    }
+
+    // Gerar o JSON final de forma bem formatada
+    $jsonResult = json_encode($result, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+    echo "<pre>$jsonResult</pre>";
+
+} catch (PDOException $e) {
+    echo 'Erro: ' . $e->getMessage();
+}
+?>
