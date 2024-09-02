@@ -7,12 +7,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-09-01 03:29:38",
+            "created_at": "2024-09-02 11:16:16",
             "id": 1,
             "name": "VIVO",
             "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2024-09-01 03:29:38",
+            "updated_at": "2024-09-02 11:16:16",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 1,
@@ -22,7 +22,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-09-01 03:29:38",
+        "created_at": "2024-09-02 11:16:16",
         "description": "Pega no vivo controle",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -58,12 +58,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-09-01 03:29:38",
+            "created_at": "2024-09-02 11:16:16",
             "id": 2,
             "name": "TIM",
             "sorter": 2,
             "status": "ACTIVE",
-            "updated_at": "2024-09-01 03:29:38",
+            "updated_at": "2024-09-02 11:16:16",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 2,
@@ -73,7 +73,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-09-01 03:29:38",
+        "created_at": "2024-09-02 11:16:16",
         "description": "chip não cadastrado",
         "dns_server": {
             "dns1": "8.8.8.8",
@@ -109,12 +109,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-09-01 03:29:38",
+            "created_at": "2024-09-02 11:16:16",
             "id": 5,
             "name": "SERVIDOR DE TESTE PRIVADO",
             "sorter": 5,
             "status": "ACTIVE",
-            "updated_at": "2024-09-01 03:29:38",
+            "updated_at": "2024-09-02 11:16:16",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 5,
@@ -124,7 +124,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-09-01 03:29:38",
+        "created_at": "2024-09-02 11:16:16",
         "description": "Pra teste privado",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -160,12 +160,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-09-01 03:29:38",
+            "created_at": "2024-09-02 11:16:16",
             "id": 1,
             "name": "VIVO",
             "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2024-09-01 03:29:38",
+            "updated_at": "2024-09-02 11:16:16",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 1,
@@ -175,7 +175,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-09-01 03:29:38",
+        "created_at": "2024-09-02 11:16:16",
         "description": "Funciona com vivo easy",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -200,6 +200,57 @@
             7300
         ],
         "updated_at": "2024-08-25 22:23:07",
+        "url_check_user": null,
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#80BB1CD4",
+            "created_at": "2024-09-02 11:16:16",
+            "id": 1,
+            "name": "VIVO",
+            "sorter": 1,
+            "status": "ACTIVE",
+            "updated_at": "2024-09-02 11:16:16",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 1,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
+            "sni": null
+        },
+        "config_v2ray": null,
+        "created_at": "2024-09-02 11:16:16",
+        "description": "Vivo Security 3",
+        "dns_server": {
+            "dns1": "0.0.0.0",
+            "dns2": "0.0.0.0"
+        },
+        "icon": "http://raw.githubusercontent.com/EliasOMestre/atualizar/main/vivo.png",
+        "id": 5,
+        "mode": "SSH_PROXY",
+        "name": "VIVO 3 ➜ CONFIG 3 ➜ SECURITY",
+        "proxy": {
+            "host": "51.77.211.92",
+            "port": 8080
+        },
+        "server": {
+            "host": "br1.gamestylish.xyz",
+            "port": 8080
+        },
+        "sorter": 3,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2024-09-02 00:15:01",
         "url_check_user": null,
         "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
     }
