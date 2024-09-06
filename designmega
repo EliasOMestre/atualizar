@@ -3,7 +3,7 @@
         "id": 37528,
         "label": "Nome do app",
         "name": "APP_NAME",
-        "value": "DTunnel VPN",
+        "value": "MEGACON",
         "type": "STRING",
         "status": "ACTIVE",
         "user_id": "9f89f276-89c0-48e6-920c-ac1e03f8fab4"
@@ -197,7 +197,7 @@
         "name": "APP_CONFIG_AUTO_UPDATE",
         "value": false,
         "type": "BOOLEAN",
-        "status": "ACTIVE",
+        "status": "INATIVE",
         "user_id": "9f89f276-89c0-48e6-920c-ac1e03f8fab4"
     },
     {
