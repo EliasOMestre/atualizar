@@ -12,7 +12,7 @@
         "id": 37529,
         "label": "Logo do app",
         "name": "APP_LOGO",
-        "value": null,
+        "value": "",
         "type": "IMAGE",
         "status": "ACTIVE",
         "user_id": "9f89f276-89c0-48e6-920c-ac1e03f8fab4"
@@ -21,7 +21,7 @@
         "id": 37530,
         "label": "Imagem de fundo",
         "name": "APP_BACKGROUND_IMAGE",
-        "value": null,
+        "value": "",
         "type": "IMAGE",
         "status": "ACTIVE",
         "user_id": "9f89f276-89c0-48e6-920c-ac1e03f8fab4"
