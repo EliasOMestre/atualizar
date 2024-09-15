@@ -242,7 +242,7 @@
         "name": "APP_BTN_PAGE_ENABLED",
         "value": false,
         "type": "BOOLEAN",
-        "status": "ACTIVE",
+        "status": "INACTIVE",
         "user_id": "9f89f276-89c0-48e6-920c-ac1e03f8fab4"
     },
     {
