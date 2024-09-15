@@ -336,32 +336,5 @@
         "type": "SELECT",
         "status": "ACTIVE",
         "user_id": "9f89f276-89c0-48e6-920c-ac1e03f8fab4"
-    },
-    {
-        "id": 37562,
-        "label": "LAYOUT WEBVIEW (POR SUA CONTA E RISCO)",
-        "name": "APP_LAYOUT_WEBVIEW",
-        "value": null,
-        "type": "HTML",
-        "status": "INATIVE",
-        "user_id": "9f89f276-89c0-48e6-920c-ac1e03f8fab4"
-    },
-    {
-        "id": 37563,
-        "label": "ANDROID WEBVIEW (POR SUA CONTA E RISCO)",
-        "name": "APP_SUPPORT_BUTTON",
-        "value": null,
-        "type": "HTML",
-        "status": "INATIVE",
-        "user_id": "9f89f276-89c0-48e6-920c-ac1e03f8fab4"
-    },
-    {
-        "id": 37564,
-        "label": "PAGINA WEBVIEW (POR SUA CONTA E RISCO)",
-        "name": "APP_WEB_VIEW",
-        "value": null,
-        "type": "HTML",
-        "status": "INATIVE",
-        "user_id": "9f89f276-89c0-48e6-920c-ac1e03f8fab4"
     }
 ]
