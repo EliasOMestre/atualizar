@@ -7,12 +7,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-09-20 08:46:27",
+            "created_at": "2024-09-20 08:52:55",
             "id": 1,
             "name": "VIVO",
             "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2024-09-20 08:46:27",
+            "updated_at": "2024-09-20 08:52:55",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 1,
@@ -22,7 +22,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-09-20 08:46:27",
+        "created_at": "2024-09-20 08:52:55",
         "description": "Pega no vivo controle",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -58,12 +58,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-09-20 08:46:27",
+            "created_at": "2024-09-20 08:52:55",
             "id": 2,
             "name": "TIM",
             "sorter": 2,
             "status": "ACTIVE",
-            "updated_at": "2024-09-20 08:46:27",
+            "updated_at": "2024-09-20 08:52:55",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 2,
@@ -73,7 +73,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-09-20 08:46:27",
+        "created_at": "2024-09-20 08:52:55",
         "description": "chip não cadastrado",
         "dns_server": {
             "dns1": "8.8.8.8",
@@ -109,12 +109,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-09-20 08:46:27",
+            "created_at": "2024-09-20 08:52:55",
             "id": 5,
             "name": "SERVIDOR DE TESTE PRIVADO",
             "sorter": 5,
             "status": "ACTIVE",
-            "updated_at": "2024-09-20 08:46:27",
+            "updated_at": "2024-09-20 08:52:55",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 5,
@@ -124,7 +124,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-09-20 08:46:27",
+        "created_at": "2024-09-20 08:52:55",
         "description": "Pra teste privado",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -160,12 +160,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-09-20 08:46:27",
+            "created_at": "2024-09-20 08:52:55",
             "id": 1,
             "name": "VIVO",
             "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2024-09-20 08:46:27",
+            "updated_at": "2024-09-20 08:52:55",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 1,
@@ -175,7 +175,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-09-20 08:46:27",
+        "created_at": "2024-09-20 08:52:55",
         "description": "Funciona com vivo easy",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -211,12 +211,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-09-20 08:46:27",
+            "created_at": "2024-09-20 08:52:55",
             "id": 1,
             "name": "VIVO",
             "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2024-09-20 08:46:27",
+            "updated_at": "2024-09-20 08:52:55",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 1,
@@ -226,7 +226,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-09-20 08:46:27",
+        "created_at": "2024-09-20 08:52:55",
         "description": "Vivo Security 3",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -262,12 +262,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-09-20 08:46:27",
+            "created_at": "2024-09-20 08:52:55",
             "id": 1,
             "name": "VIVO",
             "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2024-09-20 08:46:27",
+            "updated_at": "2024-09-20 08:52:55",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 1,
@@ -277,7 +277,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-09-20 08:46:27",
+        "created_at": "2024-09-20 08:52:55",
         "description": "Funciona no vivo controle",
         "dns_server": {
             "dns1": "1.1.1.1",
@@ -313,22 +313,22 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-09-20 08:46:27",
+            "created_at": "2024-09-20 08:52:55",
             "id": 5,
             "name": "SERVIDOR DE TESTE PRIVADO",
             "sorter": 5,
             "status": "ACTIVE",
-            "updated_at": "2024-09-20 08:46:27",
+            "updated_at": "2024-09-20 08:52:55",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 5,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "ACL HTTP/1.1[crlf]Host: community-dashbird.buzzfeed.com[crlf]X-Online-Host: link.bradok.xyz[crlf]Connection:l llbj  Keep-Alive[crlf]User-Agent: [ua][crlf]",
+            "payload": "[rotate=DELETE;HEAD;GET;PATCH;PUT]  / HTTP/1.1[crlf]Host: tim.com.br[crlf] [crlf][rotate=DELETE;HEAD;GET;PATCH;PUT] / HTTP/1.1[lf]Host: link.bradok.xyz[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-09-20 08:46:27",
+        "created_at": "2024-09-20 08:52:55",
         "description": "Tim saldo expirado",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -343,7 +343,7 @@
             "port": 80
         },
         "server": {
-            "host": "186.233.117.77",
+            "host": "104.18.9.52",
             "port": 80
         },
         "sorter": 2,
