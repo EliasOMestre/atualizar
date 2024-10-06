@@ -7,12 +7,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-10-05 06:54:59",
+            "created_at": "2024-10-06 10:23:17",
             "id": 1,
             "name": "VIVO",
             "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2024-10-05 06:54:59",
+            "updated_at": "2024-10-06 10:23:17",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 1,
@@ -22,7 +22,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-10-05 06:54:59",
+        "created_at": "2024-10-06 10:23:17",
         "description": "Pega no vivo controle",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -58,12 +58,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-10-05 06:54:59",
+            "created_at": "2024-10-06 10:23:17",
             "id": 2,
             "name": "TIM",
             "sorter": 2,
             "status": "ACTIVE",
-            "updated_at": "2024-10-05 06:54:59",
+            "updated_at": "2024-10-06 10:23:17",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 2,
@@ -73,7 +73,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-10-05 06:54:59",
+        "created_at": "2024-10-06 10:23:17",
         "description": "chip não cadastrado",
         "dns_server": {
             "dns1": "8.8.8.8",
@@ -109,12 +109,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-10-05 06:54:59",
+            "created_at": "2024-10-06 10:23:17",
             "id": 5,
             "name": "SERVIDOR DE TESTE PRIVADO",
             "sorter": 5,
             "status": "ACTIVE",
-            "updated_at": "2024-10-05 06:54:59",
+            "updated_at": "2024-10-06 10:23:17",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 5,
@@ -124,7 +124,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-10-05 06:54:59",
+        "created_at": "2024-10-06 10:23:17",
         "description": "Pra teste privado",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -160,12 +160,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-10-05 06:54:59",
+            "created_at": "2024-10-06 10:23:17",
             "id": 1,
             "name": "VIVO",
             "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2024-10-05 06:54:59",
+            "updated_at": "2024-10-06 10:23:17",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 1,
@@ -175,7 +175,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-10-05 06:54:59",
+        "created_at": "2024-10-06 10:23:17",
         "description": "Funciona com vivo easy",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -211,12 +211,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-10-05 06:54:59",
+            "created_at": "2024-10-06 10:23:17",
             "id": 1,
             "name": "VIVO",
             "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2024-10-05 06:54:59",
+            "updated_at": "2024-10-06 10:23:17",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 1,
@@ -226,7 +226,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-10-05 06:54:59",
+        "created_at": "2024-10-06 10:23:17",
         "description": "Vivo Security 3",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -262,12 +262,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-10-05 06:54:59",
+            "created_at": "2024-10-06 10:23:17",
             "id": 1,
             "name": "VIVO",
             "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2024-10-05 06:54:59",
+            "updated_at": "2024-10-06 10:23:17",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 1,
@@ -277,7 +277,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-10-05 06:54:59",
+        "created_at": "2024-10-06 10:23:17",
         "description": "Funciona no vivo controle",
         "dns_server": {
             "dns1": "1.1.1.1",
@@ -313,12 +313,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-10-05 06:54:59",
+            "created_at": "2024-10-06 10:23:17",
             "id": 5,
             "name": "SERVIDOR DE TESTE PRIVADO",
             "sorter": 5,
             "status": "ACTIVE",
-            "updated_at": "2024-10-05 06:54:59",
+            "updated_at": "2024-10-06 10:23:17",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 5,
@@ -328,7 +328,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-10-05 06:54:59",
+        "created_at": "2024-10-06 10:23:17",
         "description": "Tim saldo expirado",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -364,12 +364,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2024-10-05 06:54:59",
+            "created_at": "2024-10-06 10:23:17",
             "id": 2,
             "name": "TIM",
             "sorter": 2,
             "status": "ACTIVE",
-            "updated_at": "2024-10-05 06:54:59",
+            "updated_at": "2024-10-06 10:23:17",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 2,
@@ -379,11 +379,11 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2024-10-05 06:54:59",
+        "created_at": "2024-10-06 10:23:17",
         "description": "Tim todos os dds",
         "dns_server": {
-            "dns1": "0.0.0.0",
-            "dns2": "0.0.0.0"
+            "dns1": "1.1.1.1",
+            "dns2": "1.0.0.1"
         },
         "icon": "http://raw.githubusercontent.com/EliasOMestre/atualizar/main/tim.png",
         "id": 8,
