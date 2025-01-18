@@ -7,12 +7,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2025-01-18 09:10:18",
+            "created_at": "2025-01-18 09:22:51",
             "id": 1,
             "name": "VIVO",
             "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2025-01-18 09:10:18",
+            "updated_at": "2025-01-18 09:22:51",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 1,
@@ -22,7 +22,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2025-01-18 09:10:18",
+        "created_at": "2025-01-18 09:22:51",
         "description": "Pega no vivo controle",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -58,12 +58,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2025-01-18 09:10:18",
+            "created_at": "2025-01-18 09:22:51",
             "id": 2,
             "name": "TIM",
             "sorter": 2,
             "status": "ACTIVE",
-            "updated_at": "2025-01-18 09:10:18",
+            "updated_at": "2025-01-18 09:22:51",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 2,
@@ -73,7 +73,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2025-01-18 09:10:18",
+        "created_at": "2025-01-18 09:22:51",
         "description": "chip não cadastrado",
         "dns_server": {
             "dns1": "8.8.8.8",
@@ -109,12 +109,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2025-01-18 09:10:18",
+            "created_at": "2025-01-18 09:22:51",
             "id": 5,
             "name": "SERVIDOR DE TESTE PRIVADO",
             "sorter": 5,
             "status": "ACTIVE",
-            "updated_at": "2025-01-18 09:10:18",
+            "updated_at": "2025-01-18 09:22:51",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 5,
@@ -124,7 +124,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2025-01-18 09:10:18",
+        "created_at": "2025-01-18 09:22:51",
         "description": "Pra teste privado",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -160,12 +160,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2025-01-18 09:10:18",
+            "created_at": "2025-01-18 09:22:51",
             "id": 1,
             "name": "VIVO",
             "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2025-01-18 09:10:18",
+            "updated_at": "2025-01-18 09:22:51",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 1,
@@ -175,7 +175,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2025-01-18 09:10:18",
+        "created_at": "2025-01-18 09:22:51",
         "description": "Funciona com vivo easy",
         "dns_server": {
             "dns1": "1.1.1.1",
@@ -211,12 +211,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2025-01-18 09:10:18",
+            "created_at": "2025-01-18 09:22:51",
             "id": 1,
             "name": "VIVO",
             "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2025-01-18 09:10:18",
+            "updated_at": "2025-01-18 09:22:51",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 1,
@@ -226,7 +226,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2025-01-18 09:10:18",
+        "created_at": "2025-01-18 09:22:51",
         "description": "Vivo Security 3",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -262,12 +262,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2025-01-18 09:10:18",
+            "created_at": "2025-01-18 09:22:51",
             "id": 1,
             "name": "VIVO",
             "sorter": 1,
             "status": "ACTIVE",
-            "updated_at": "2025-01-18 09:10:18",
+            "updated_at": "2025-01-18 09:22:51",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 1,
@@ -277,7 +277,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2025-01-18 09:10:18",
+        "created_at": "2025-01-18 09:22:51",
         "description": "Funciona no vivo controle",
         "dns_server": {
             "dns1": "1.1.1.1",
@@ -313,12 +313,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2025-01-18 09:10:18",
+            "created_at": "2025-01-18 09:22:51",
             "id": 5,
             "name": "SERVIDOR DE TESTE PRIVADO",
             "sorter": 5,
             "status": "ACTIVE",
-            "updated_at": "2025-01-18 09:10:18",
+            "updated_at": "2025-01-18 09:22:51",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 5,
@@ -328,7 +328,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2025-01-18 09:10:18",
+        "created_at": "2025-01-18 09:22:51",
         "description": "Tim saldo expirado",
         "dns_server": {
             "dns1": "0.0.0.0",
@@ -364,22 +364,22 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2025-01-18 09:10:18",
+            "created_at": "2025-01-18 09:22:51",
             "id": 2,
             "name": "TIM",
             "sorter": 2,
             "status": "ACTIVE",
-            "updated_at": "2025-01-18 09:10:18",
+            "updated_at": "2025-01-18 09:22:51",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 2,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "CONNECT / HTTP/1.9[crlf]host: timofertas.com[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: [host][crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
+            "payload": "GET /-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: cdn.falconet.xyz [crlf]Upgrade: Websocket[crlf][crlf]",
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2025-01-18 09:10:18",
+        "created_at": "2025-01-18 09:22:51",
         "description": "Tim todos os dds",
         "dns_server": {
             "dns1": "1.1.1.1",
@@ -390,7 +390,7 @@
         "mode": "SSH_PROXY",
         "name": "TIM 2 ➜ CONFIG 2 ➜ TODOS DDS",
         "proxy": {
-            "host": "104.21.2.132",
+            "host": "104.18.5.18",
             "port": 80
         },
         "server": {
@@ -415,12 +415,12 @@
         },
         "category": {
             "color": "#80BB1CD4",
-            "created_at": "2025-01-18 09:10:18",
+            "created_at": "2025-01-18 09:22:51",
             "id": 5,
             "name": "SERVIDOR DE TESTE PRIVADO",
             "sorter": 5,
             "status": "ACTIVE",
-            "updated_at": "2025-01-18 09:10:18",
+            "updated_at": "2025-01-18 09:22:51",
             "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
         "category_id": 5,
@@ -430,7 +430,7 @@
             "sni": null
         },
         "config_v2ray": null,
-        "created_at": "2025-01-18 09:10:18",
+        "created_at": "2025-01-18 09:22:51",
         "description": "VIVO SERVIDOR TESTE",
         "dns_server": {
             "dns1": "1.1.1.1",
